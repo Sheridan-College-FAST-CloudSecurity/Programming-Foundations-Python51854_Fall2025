@@ -1,0 +1,84 @@
+Dev-ops:
+Devlopment+Operations:
+It is the set of practices that brings together the software development(dev) and IT operations(ops).
+Goals of DevOps (Elaborated)
+
+Speed up software delivery 🚀
+
+Automates the build, test, and deployment pipeline.
+
+Helps release new features and bug fixes to users faster.
+
+Reduces time-to-market.
+
+Improve collaboration 🤝
+
+Breaks silos between development and operations teams.
+
+Encourages shared responsibility for code and infrastructure.
+
+Improves communication and teamwork.
+
+Automate processes ⚙️
+
+Replaces manual, error-prone tasks with automation.
+
+Covers testing, integration, deployments, monitoring, and scaling.
+
+Ensures consistency and reliability.
+
+Ensure reliability & stability 🔒
+
+Continuous monitoring detects issues early.
+
+Rollback and recovery mechanisms minimize downtime.
+
+Ensures systems are secure, stable, and resilient.
+“Breaking silos” means removing barriers between teams or departments so that they work together instead of separately.
+
+In traditional IT companies:
+
+Developers → focus only on writing code.
+
+Operations → focus only on running and maintaining servers.
+
+QA/Testers → focus only on testing.
+
+Each team works in its own “silo” with little communication.
+
+This often causes:
+
+Misunderstandings 🤯
+
+Slow delivery ⏳
+
+Finger-pointing when something breaks ⚠️
+
+In DevOps:
+
+These silos are broken down.
+
+Teams share responsibility for the whole lifecycle of software (build → test → deploy → monitor).
+
+Everyone collaborates with a common goal: delivering reliable software quickly.
+
+👉 So “break silos” basically means integrating and uniting teams that used to work in isolation.
+Python Programming language
+Key Features of Python
+
+Easy to read and write 📝
+
+Dynamically typed and interpreted ⚡
+
+Extensive standard library 📚
+
+Open-source and cross-platform 🌐
+
+Large community support 🤝
+Why Learn Python?
+
+Beginner-friendly and widely used
+
+Supports rapid development and prototyping
+
+High demand in industries: AI, Web, Automation, Data Science
